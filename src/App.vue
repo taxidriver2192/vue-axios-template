@@ -16,7 +16,7 @@ export default {
   },
   data () {
     return {
-      title: 'Vue Opgave done! 🚀'
+      title: 'Vue Opgave Update Test?! 🚀'
     }
   }
 }
